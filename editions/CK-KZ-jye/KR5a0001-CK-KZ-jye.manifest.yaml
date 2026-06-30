@@ -1,0 +1,2409 @@
+canonical_identifier: bkk:krp/KR5a0001/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0001/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈寶無量度人上品妙經
+  date: '2015-08-28 23:02:56.425691'
+  source:
+    repository: kanripo
+    path: KR5a0001
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0001_000-CK-KZ-jye.yaml, hash: 'sha256:f00a2f3b92ffe01e9b1074191f880921ca52a6b90981c53ba53fa0fa1185ca94'}
+  - {seq: 1, filename: KR5a0001_001-CK-KZ-jye.yaml, hash: 'sha256:0ea91aeb0901e14bbebfe58a55732ed79eee86b8f5e659b081a8288eabb4ac58'}
+  - {seq: 2, filename: KR5a0001_002-CK-KZ-jye.yaml, hash: 'sha256:3abc632dfad0382afbec7e2b58ff52a3b944d2dc5e766e9f2b14ff46453c665a'}
+  - {seq: 3, filename: KR5a0001_003-CK-KZ-jye.yaml, hash: 'sha256:12bf71113d9bbe059f2c38d715e162859484a0912980efca20b6c317ff64ec6e'}
+  - {seq: 4, filename: KR5a0001_004-CK-KZ-jye.yaml, hash: 'sha256:30da80753e2ea44c2682d16eaad8e1a8f50de9dad43fa4715bb7f545d1902bba'}
+  - {seq: 5, filename: KR5a0001_005-CK-KZ-jye.yaml, hash: 'sha256:924ddc5cbdb18df841fee975214fb6fb26c02960ec9389c66d799a7daefb5496'}
+  - {seq: 6, filename: KR5a0001_006-CK-KZ-jye.yaml, hash: 'sha256:24765bade1520abe51e277e3e36626681d36a6246b05bca9ab73fb94696dd5c0'}
+  - {seq: 7, filename: KR5a0001_007-CK-KZ-jye.yaml, hash: 'sha256:374878f2ac0a41854dac3575b94a15ad85e89765ac4d5e4c21e6698922a770a8'}
+  - {seq: 8, filename: KR5a0001_008-CK-KZ-jye.yaml, hash: 'sha256:18d787992e18fae20318b9209f14b4d1f63222bb7345c63b04c960e7726781b1'}
+  - {seq: 9, filename: KR5a0001_009-CK-KZ-jye.yaml, hash: 'sha256:e4a900a9269022f446e52775f4f9cc8a6e590589c78f7d59b24cd28a3cc1f3fb'}
+  - {seq: 10, filename: KR5a0001_010-CK-KZ-jye.yaml, hash: 'sha256:c5521f4cf9f306b2d72862a6dc8d0c011beda682514cbfc69cf1fa986f45d22e'}
+  - {seq: 11, filename: KR5a0001_011-CK-KZ-jye.yaml, hash: 'sha256:86940c72d54d1db42ae4cd4e855c41590f969ae29a9765c363ee8f3a13c0b655'}
+  - {seq: 12, filename: KR5a0001_012-CK-KZ-jye.yaml, hash: 'sha256:32deddda660473c7843ebb5b687954c8f1ef288c01e8fce46c2b594f43af8d39'}
+  - {seq: 13, filename: KR5a0001_013-CK-KZ-jye.yaml, hash: 'sha256:8861057cd93d8dcc4d93ac900474a88fa58bde3006edeecd45d3831a9b9c8fff'}
+  - {seq: 14, filename: KR5a0001_014-CK-KZ-jye.yaml, hash: 'sha256:7e7e6f69e46eb7f0e7a5c8f53a303dfd5b3fe67af2780440115ea92391687d12'}
+  - {seq: 15, filename: KR5a0001_015-CK-KZ-jye.yaml, hash: 'sha256:69df5b2e7c7c4b8cc02533336f037eeea324dfa88e11bd417e1e059e253b9752'}
+  - {seq: 16, filename: KR5a0001_016-CK-KZ-jye.yaml, hash: 'sha256:4108eb85a7eba1df853b10067c7945beb2076ace7307bdaaeefa8662f903ccf5'}
+  - {seq: 17, filename: KR5a0001_017-CK-KZ-jye.yaml, hash: 'sha256:0c020fcefd45deb6b8e163581f72e96cb04d1539cc023bb3874f51f9124b90ba'}
+  - {seq: 18, filename: KR5a0001_018-CK-KZ-jye.yaml, hash: 'sha256:4ab625564c598b9fc3b5d652cd5c5c8c997f431f018ab220e1d25f0c127335c6'}
+  - {seq: 19, filename: KR5a0001_019-CK-KZ-jye.yaml, hash: 'sha256:c7eb62f01f6b80a515b9bc5c8d3ead159450cf04d94483508ac74a8264fe0090'}
+  - {seq: 20, filename: KR5a0001_020-CK-KZ-jye.yaml, hash: 'sha256:7fa4832d9dafad2f8781a8306b1a4433d710e6ac18bf04cdf4d6656bd1010685'}
+  - {seq: 21, filename: KR5a0001_021-CK-KZ-jye.yaml, hash: 'sha256:d0a3857209bb9671124b30c7b40370f611198a9408632fd00e6e744335fcbc00'}
+  - {seq: 22, filename: KR5a0001_022-CK-KZ-jye.yaml, hash: 'sha256:8ac74dd21a27e6163f0e371b00e3e48c4cf1a3b37dac23e6e6c7bb3e65d0ea47'}
+  - {seq: 23, filename: KR5a0001_023-CK-KZ-jye.yaml, hash: 'sha256:bd577408c1d66ff3ffb0a44132d9d52e36ac95392c6666fea4e6937a5076db5a'}
+  - {seq: 24, filename: KR5a0001_024-CK-KZ-jye.yaml, hash: 'sha256:24b8da9c1aec29286d24d50d8f8aa55bb8fe781d30cb3934eb5776ff3e5795e5'}
+  - {seq: 25, filename: KR5a0001_025-CK-KZ-jye.yaml, hash: 'sha256:aaee160fc66d3375c2c9fd80f4af9225b098b0e880fe66274f9304c18e2dd7ce'}
+  - {seq: 26, filename: KR5a0001_026-CK-KZ-jye.yaml, hash: 'sha256:5a93483346ff7aa613870cd7b3d84e5cac9e2b15e15c39579a4bee225fa550e6'}
+  - {seq: 27, filename: KR5a0001_027-CK-KZ-jye.yaml, hash: 'sha256:08fc34087093a32158fcdf53333dd1e77c2cbf1498853279a9c37b579f0c77a9'}
+  - {seq: 28, filename: KR5a0001_028-CK-KZ-jye.yaml, hash: 'sha256:609d0cf4d405bf8e9365dd8fa613057fc9911b711095ff0c73749fdac9569cb3'}
+  - {seq: 29, filename: KR5a0001_029-CK-KZ-jye.yaml, hash: 'sha256:217cb07af97c7021dc7e3a9d0d574afc436487891eafec018538814e0788ef2a'}
+  - {seq: 30, filename: KR5a0001_030-CK-KZ-jye.yaml, hash: 'sha256:ea81ea15fb1f2f1f96c532fa0d9103811cc9cefaeb36bec810cd7dceeff7d808'}
+  - {seq: 31, filename: KR5a0001_031-CK-KZ-jye.yaml, hash: 'sha256:2c775a761ae0549b406ab9b70972a1b23569004f7a87c7bb714f38413f457fcf'}
+  - {seq: 32, filename: KR5a0001_032-CK-KZ-jye.yaml, hash: 'sha256:d5ea3e33da2c526e40c5846a458e8359f30c6c6a2f362762c5ef5566b53b94da'}
+  - {seq: 33, filename: KR5a0001_033-CK-KZ-jye.yaml, hash: 'sha256:0e12adb234ca78011b071e9625c3ca5c3f33c1aa8317caec58c01189038c11ac'}
+  - {seq: 34, filename: KR5a0001_034-CK-KZ-jye.yaml, hash: 'sha256:abccd04eb40e63c8503a14c415c42349fec19e9b8b57003f299f7d8a1105d7d9'}
+  - {seq: 35, filename: KR5a0001_035-CK-KZ-jye.yaml, hash: 'sha256:a2328f8c6e4697b36deb8f72576c5b1a1219db5bfbfd65625402d7df684712e3'}
+  - {seq: 36, filename: KR5a0001_036-CK-KZ-jye.yaml, hash: 'sha256:d4c2e7af6eb0f1a7138ac63cedb52f764c9ef401aa1ea25bb8ebfee99ab49962'}
+  - {seq: 37, filename: KR5a0001_037-CK-KZ-jye.yaml, hash: 'sha256:d6d7f7732c61d0b16cc1640d265f22b4619687f296319721d41cf16e116bdee6'}
+  - {seq: 38, filename: KR5a0001_038-CK-KZ-jye.yaml, hash: 'sha256:54b0d5ec3b97d84075ade7d91982d8945be5c8c0487e727baed0bc2bdb5c4870'}
+  - {seq: 39, filename: KR5a0001_039-CK-KZ-jye.yaml, hash: 'sha256:07cc0183461f058c7f3a1d2085e1e16dde62c4d26ccd5d92101d49b20dd7af93'}
+  - {seq: 40, filename: KR5a0001_040-CK-KZ-jye.yaml, hash: 'sha256:4ce2552e797e1a5625184e70b12c4b9668fcc446b51ee100e658b1b44b07dbfa'}
+  - {seq: 41, filename: KR5a0001_041-CK-KZ-jye.yaml, hash: 'sha256:7072cef21a277fea4a11ff5a6df8699b09950d2d9458e4cb7af7d2db64258883'}
+  - {seq: 42, filename: KR5a0001_042-CK-KZ-jye.yaml, hash: 'sha256:c38bf7cbce54d85809d648011e44aa06a47530000e61063bb70db14d3f2e9f3d'}
+  - {seq: 43, filename: KR5a0001_043-CK-KZ-jye.yaml, hash: 'sha256:9b7f673ce17e7cc208b324df7086938718bdb899b8078e50ec93995afc2a0670'}
+  - {seq: 44, filename: KR5a0001_044-CK-KZ-jye.yaml, hash: 'sha256:4cdbe260bb34158e1151d96fd4fd0d7cc89b0181bb6e85fea8c845d4df9c5879'}
+  - {seq: 45, filename: KR5a0001_045-CK-KZ-jye.yaml, hash: 'sha256:dd4bb24d70cb9c194754fcdf097553415df3f7be65bda7becae280b3d238fa71'}
+  - {seq: 46, filename: KR5a0001_046-CK-KZ-jye.yaml, hash: 'sha256:e052a58a85f1b21b694393d01362d1dca9d42a19e4807ffe14cbe49145e088de'}
+  - {seq: 47, filename: KR5a0001_047-CK-KZ-jye.yaml, hash: 'sha256:c29f15fa95623e35ba152759b9f43a9014a979837a8da5cf2dd6e0176311f0b5'}
+  - {seq: 48, filename: KR5a0001_048-CK-KZ-jye.yaml, hash: 'sha256:b8e577c581c8fa9befb4c43f5e32bc772416304830c3f3891cdea493c056f613'}
+  - {seq: 49, filename: KR5a0001_049-CK-KZ-jye.yaml, hash: 'sha256:6ceab51571a7fa53678231639b55260e25ab6019a8166557f2b42cba6ef508a4'}
+  - {seq: 50, filename: KR5a0001_050-CK-KZ-jye.yaml, hash: 'sha256:dfb280e24c61ae13c4742209469c8007cc846f3861db49487d1cbee61e1f35a2'}
+  - {seq: 51, filename: KR5a0001_051-CK-KZ-jye.yaml, hash: 'sha256:f166262bcff9e0b470e9b9bfbf0f47aa924236018f4d5bfa2f568dbfee467bde'}
+  - {seq: 52, filename: KR5a0001_052-CK-KZ-jye.yaml, hash: 'sha256:81a80def6a85f5550523647fbb654c843c8de8414c58134288362238b91991ba'}
+  - {seq: 53, filename: KR5a0001_053-CK-KZ-jye.yaml, hash: 'sha256:79248f497f3837d959432016ed57759765478965c3212f2424640238d04254cd'}
+  - {seq: 54, filename: KR5a0001_054-CK-KZ-jye.yaml, hash: 'sha256:36d3c9ce4ac96bbdfe8fdb5889715ad5e02e0ba98f284a4d359c60d5afd5effb'}
+  - {seq: 55, filename: KR5a0001_055-CK-KZ-jye.yaml, hash: 'sha256:ca950131cb1058dc2aae74ffe6ca03b6e0d55fae3cdbb765cf87a5a7135f3285'}
+  - {seq: 56, filename: KR5a0001_056-CK-KZ-jye.yaml, hash: 'sha256:f8be6cd7161053ee37d9408e0d94470208e1539c605c15398695a6c47c522a9f'}
+  - {seq: 57, filename: KR5a0001_057-CK-KZ-jye.yaml, hash: 'sha256:bd42563a2c4f684a851f5285d4841930fd933e84764c90c0bf0355f16b60e716'}
+  - {seq: 58, filename: KR5a0001_058-CK-KZ-jye.yaml, hash: 'sha256:f5681f3c3f10dc1f72069b9b626fe8c42e8bf11e79c239a6194e935846ee24f3'}
+  - {seq: 59, filename: KR5a0001_059-CK-KZ-jye.yaml, hash: 'sha256:f84883e75823efed7b43ce116f687f0a0918d74317dc563f2e31a80e8e2d044c'}
+  - {seq: 60, filename: KR5a0001_060-CK-KZ-jye.yaml, hash: 'sha256:bcc2963ef6b0ab56334691fa1325f8644082a4f0fc40d709d588d3ef8be2c454'}
+  - {seq: 61, filename: KR5a0001_061-CK-KZ-jye.yaml, hash: 'sha256:cc2b607b714d7a9aede951430e2ef2c349698ba36fcc6dd8a6e14972640426eb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5a0001_001-CK-KZ-jye.markers.yaml, hash: 'sha256:4575e07385244a2eeedca2229a7145019236d6da7420a70d9fdfd91c03e8efb6'}
+  - {seq: 2, role: markers, filename: assets/KR5a0001_002-CK-KZ-jye.markers.yaml, hash: 'sha256:c0b465356314705ccf46e8e79f5b01f3789655ec99ad294f03d2b4af5a3ddce4'}
+  - {seq: 3, role: markers, filename: assets/KR5a0001_003-CK-KZ-jye.markers.yaml, hash: 'sha256:e1b888c3706d79e3efd4d25ac5ca614afc7ef96965966cd7a4b4a877505c4757'}
+  - {seq: 4, role: markers, filename: assets/KR5a0001_004-CK-KZ-jye.markers.yaml, hash: 'sha256:59a020f1997248a6e20af26bd6c6c57c8c711ec34784d9f1d919e06b86d312f5'}
+  - {seq: 5, role: markers, filename: assets/KR5a0001_005-CK-KZ-jye.markers.yaml, hash: 'sha256:0d84323ab8deaec09bf05e4b2d8dbeffea68b7010254a436c6fcb85e9e045f86'}
+  - {seq: 6, role: markers, filename: assets/KR5a0001_006-CK-KZ-jye.markers.yaml, hash: 'sha256:cbf2f75db1e1611e9c16f33aa5ab92564e127b5d51c57ed73a8493ec20e60ae4'}
+  - {seq: 7, role: markers, filename: assets/KR5a0001_007-CK-KZ-jye.markers.yaml, hash: 'sha256:34b3b1e66ea1e7ee01c94097ee0b7446d67568a3dd31e006ef449a84a4f58cbf'}
+  - {seq: 8, role: markers, filename: assets/KR5a0001_008-CK-KZ-jye.markers.yaml, hash: 'sha256:b7ddee61b7de6c6f873523b879b1d48f6c65fadcda89955003e229ba37831862'}
+  - {seq: 9, role: markers, filename: assets/KR5a0001_009-CK-KZ-jye.markers.yaml, hash: 'sha256:cf5d3d28c411a609345c5059adf05c12edbeec8e1bdea0d84b63b5867d0e01ea'}
+  - {seq: 10, role: markers, filename: assets/KR5a0001_010-CK-KZ-jye.markers.yaml, hash: 'sha256:4fcde89aa0a75cee262b41a4000895e117eb7d512fc0f3a3bf7979c574ea5256'}
+  - {seq: 11, role: markers, filename: assets/KR5a0001_011-CK-KZ-jye.markers.yaml, hash: 'sha256:7b9a536da2c94db863453134dcedddbfb6f053525d76d9e26ea9c4b6fbc6d5a7'}
+  - {seq: 12, role: markers, filename: assets/KR5a0001_012-CK-KZ-jye.markers.yaml, hash: 'sha256:553141e6a8d14bb7053705d0b824b0c661b3dd69d0302735ee092590ee6fc208'}
+  - {seq: 13, role: markers, filename: assets/KR5a0001_013-CK-KZ-jye.markers.yaml, hash: 'sha256:8e5b4c1dd7935ac5bad4372db7de3d2642808e538e0377864423a9b7f2e2c4c8'}
+  - {seq: 14, role: markers, filename: assets/KR5a0001_014-CK-KZ-jye.markers.yaml, hash: 'sha256:9d47044f1d1f740addec443ed53de7b29e388313da38e1e9dbcd307bfa48bb6a'}
+  - {seq: 15, role: markers, filename: assets/KR5a0001_015-CK-KZ-jye.markers.yaml, hash: 'sha256:53b25632d4312b2aa1e4a4fb12ea4c7494e6c492b6c3f056f6d91777bdc55c09'}
+  - {seq: 16, role: markers, filename: assets/KR5a0001_016-CK-KZ-jye.markers.yaml, hash: 'sha256:ebaf1c80dfc219b6069f6d24fc946f12b1035dfd6a693fee151d65102e2d1185'}
+  - {seq: 17, role: markers, filename: assets/KR5a0001_017-CK-KZ-jye.markers.yaml, hash: 'sha256:5ac747453a32a8ac77cee9144c3afa098d4423b78581b40b1293839726e9737e'}
+  - {seq: 18, role: markers, filename: assets/KR5a0001_018-CK-KZ-jye.markers.yaml, hash: 'sha256:19c5314e20afb5ea79124ae9549c7322c459b56c65dcc2c269c8352baf0db814'}
+  - {seq: 19, role: markers, filename: assets/KR5a0001_019-CK-KZ-jye.markers.yaml, hash: 'sha256:636ab53d75013996909725ccaf1308918c4702c925ad51727e8d8061ba42e45d'}
+  - {seq: 20, role: markers, filename: assets/KR5a0001_020-CK-KZ-jye.markers.yaml, hash: 'sha256:ab2ba5d189f069a46e56d746723b91e7d6d89a1e458aac701531878c0491b3f1'}
+  - {seq: 21, role: markers, filename: assets/KR5a0001_021-CK-KZ-jye.markers.yaml, hash: 'sha256:1e90ce7c0e79371681596ea6c6b5c3a2a3e6237be0c1d21c3383bb310f7fc8e9'}
+  - {seq: 22, role: markers, filename: assets/KR5a0001_022-CK-KZ-jye.markers.yaml, hash: 'sha256:3414cea8bbbfa1bc3f4071ae6609d96ab56b818d1eed49cb76af3e84a4a2b8de'}
+  - {seq: 23, role: markers, filename: assets/KR5a0001_023-CK-KZ-jye.markers.yaml, hash: 'sha256:b77f5289cb945bcb2ee45c48173e8686f9473e55c7bc631721c7297796e0effd'}
+  - {seq: 24, role: markers, filename: assets/KR5a0001_024-CK-KZ-jye.markers.yaml, hash: 'sha256:51b8c8b7df4a852b969fcf71707875ecda4ab8d401fb282a16bb1d183932001a'}
+  - {seq: 25, role: markers, filename: assets/KR5a0001_025-CK-KZ-jye.markers.yaml, hash: 'sha256:1e71a94e9bd788532fbcc7f26863e5d16f0686ea121ce016506f52d9bc192213'}
+  - {seq: 26, role: markers, filename: assets/KR5a0001_026-CK-KZ-jye.markers.yaml, hash: 'sha256:16f9a5cf1cc5e23dab7bc9cac8e18d57c4c40ce53cf44dba389cd036e34d472c'}
+  - {seq: 27, role: markers, filename: assets/KR5a0001_027-CK-KZ-jye.markers.yaml, hash: 'sha256:8f185c599ba18e5091f590bf1d0f40742ce346135fb1588fb47d0a8e220f8fde'}
+  - {seq: 28, role: markers, filename: assets/KR5a0001_028-CK-KZ-jye.markers.yaml, hash: 'sha256:bd82fa93635984f0ef4d267584f44545c3bd2ba9b61600805c2e7b0a35c1b48b'}
+  - {seq: 29, role: markers, filename: assets/KR5a0001_029-CK-KZ-jye.markers.yaml, hash: 'sha256:ff5e8da7d74c57a037ac8f336bc4270a365a9ee26dee098304c1e3434a302205'}
+  - {seq: 30, role: markers, filename: assets/KR5a0001_030-CK-KZ-jye.markers.yaml, hash: 'sha256:f47e67b8710cb1187932f9af6da63105a9d1f21b10e4a9da9ee84fb67dfaefae'}
+  - {seq: 31, role: markers, filename: assets/KR5a0001_031-CK-KZ-jye.markers.yaml, hash: 'sha256:932449fa2cb399a37423da248d0c332cdb57ff4c2e998baabacb2eb0b66911ca'}
+  - {seq: 32, role: markers, filename: assets/KR5a0001_032-CK-KZ-jye.markers.yaml, hash: 'sha256:49f96ae96efdc7668f66f3c8536cb84ea92d071b8143d53e53be3032b30cd541'}
+  - {seq: 33, role: markers, filename: assets/KR5a0001_033-CK-KZ-jye.markers.yaml, hash: 'sha256:499e62abbca4905d748e7d7d442e2478d52ee120571ef91c8435353143c42324'}
+  - {seq: 34, role: markers, filename: assets/KR5a0001_034-CK-KZ-jye.markers.yaml, hash: 'sha256:f495baad6dc1750f7c6576a531d92d5c624922f49e3a27755607660cc60950b1'}
+  - {seq: 35, role: markers, filename: assets/KR5a0001_035-CK-KZ-jye.markers.yaml, hash: 'sha256:c3383b28e2c27cabbc8ea7076d2fc577cbe8df9b47c46e9d2b77cdf43aaa9139'}
+  - {seq: 36, role: markers, filename: assets/KR5a0001_036-CK-KZ-jye.markers.yaml, hash: 'sha256:165bedb4ec0e1d24942f4451c3fc0f405f8b320bab5cd98788df24fbda2bfe37'}
+  - {seq: 37, role: markers, filename: assets/KR5a0001_037-CK-KZ-jye.markers.yaml, hash: 'sha256:6e1a64f78e0b77703945104e67e9d50fea5bb609603357ca3d5a84fdc72d0f48'}
+  - {seq: 38, role: markers, filename: assets/KR5a0001_038-CK-KZ-jye.markers.yaml, hash: 'sha256:9fb0f1e8be77c7001e41e2eacae6b8661f371be8cb082fcf9c050c347c741343'}
+  - {seq: 39, role: markers, filename: assets/KR5a0001_039-CK-KZ-jye.markers.yaml, hash: 'sha256:a634cd0545b45291277f1c9d39e197a7bb2717eb299445ae74f33b46b301b5f5'}
+  - {seq: 40, role: markers, filename: assets/KR5a0001_040-CK-KZ-jye.markers.yaml, hash: 'sha256:1e9706d10f7e2dccfbfc9ba551031ff5a57e40c8907f6c7bb0f733484c47d3e8'}
+  - {seq: 41, role: markers, filename: assets/KR5a0001_041-CK-KZ-jye.markers.yaml, hash: 'sha256:c5ad66a985ca3ced9394e83b4845fe8657f30525f1fdaf926d81d731b4e112c8'}
+  - {seq: 42, role: markers, filename: assets/KR5a0001_042-CK-KZ-jye.markers.yaml, hash: 'sha256:5aa8d3d8383bc24ee799365a27da54dc16c560665db2899cc1d7561bcf12663d'}
+  - {seq: 43, role: markers, filename: assets/KR5a0001_043-CK-KZ-jye.markers.yaml, hash: 'sha256:a977978c42206413598ac2b61aea5e0e1f1cb7daf98ba5ca61f2cd7e3f9705db'}
+  - {seq: 44, role: markers, filename: assets/KR5a0001_044-CK-KZ-jye.markers.yaml, hash: 'sha256:b72f18c7be9897b07a062eac887b1b4bf05baaad6e1ed2c847d8ec7cd84cb686'}
+  - {seq: 45, role: markers, filename: assets/KR5a0001_045-CK-KZ-jye.markers.yaml, hash: 'sha256:4ced1cb728ec7698067207fc2170af3ff46c1db9d008612b8561fa557692f806'}
+  - {seq: 46, role: markers, filename: assets/KR5a0001_046-CK-KZ-jye.markers.yaml, hash: 'sha256:9adb0f89c3f4303303e46b79cc0dc0a77113ac96d9ad25ce49a70b5679a97417'}
+  - {seq: 47, role: markers, filename: assets/KR5a0001_047-CK-KZ-jye.markers.yaml, hash: 'sha256:e6d1d55c6ca50d4030adb976d2faf19141b5581cd946760fdf99c9256f794fa9'}
+  - {seq: 48, role: markers, filename: assets/KR5a0001_048-CK-KZ-jye.markers.yaml, hash: 'sha256:337578ce07f98609e58b8289fc30b74c3cd13ee033485e1b9b86bf0477fadbe1'}
+  - {seq: 49, role: markers, filename: assets/KR5a0001_049-CK-KZ-jye.markers.yaml, hash: 'sha256:fbc5f3dca3b50de2b29cd1083653dd205ab47900b2dd12b4de13e2a210ed835f'}
+  - {seq: 50, role: markers, filename: assets/KR5a0001_050-CK-KZ-jye.markers.yaml, hash: 'sha256:cde719e1e64acea18b137ac7461d0dbf8516a14ba14423e6152eb535b6c33078'}
+  - {seq: 51, role: markers, filename: assets/KR5a0001_051-CK-KZ-jye.markers.yaml, hash: 'sha256:e976c4bd881f26552959b218103db2c3f1335af4db6a3639d8828b13a6f411d5'}
+  - {seq: 52, role: markers, filename: assets/KR5a0001_052-CK-KZ-jye.markers.yaml, hash: 'sha256:d1865965398bfdddd686df214003612f29cde2160422744f403bd0209df05dff'}
+  - {seq: 53, role: markers, filename: assets/KR5a0001_053-CK-KZ-jye.markers.yaml, hash: 'sha256:3a5f3e222f59209c6ffa1e2837eeba6876cb85ecc431ebf3bebf459bfc20d58a'}
+  - {seq: 54, role: markers, filename: assets/KR5a0001_054-CK-KZ-jye.markers.yaml, hash: 'sha256:17f13c25a9fb2948e0039bf1fea8898273c232657c93ddb8f2a01ec3fff3a21a'}
+  - {seq: 55, role: markers, filename: assets/KR5a0001_055-CK-KZ-jye.markers.yaml, hash: 'sha256:349ae5260e8cf6754c5b736e1d4222382413076c7510f5470702f3ef2a8f5480'}
+  - {seq: 56, role: markers, filename: assets/KR5a0001_056-CK-KZ-jye.markers.yaml, hash: 'sha256:63df845719eccd8782d1a870c421a69af900fab03759f84a33c9a5641191791a'}
+  - {seq: 57, role: markers, filename: assets/KR5a0001_057-CK-KZ-jye.markers.yaml, hash: 'sha256:69fe110dd53a797f921e499e584a804ff13675cd7ae197ac6d3eb8501fd3e489'}
+  - {seq: 58, role: markers, filename: assets/KR5a0001_058-CK-KZ-jye.markers.yaml, hash: 'sha256:fb30aff173c5a61dd1c7cc1f87f9d6f9db8dee050eaa7074f21eb06545c8fd65'}
+  - {seq: 59, role: markers, filename: assets/KR5a0001_059-CK-KZ-jye.markers.yaml, hash: 'sha256:075fe6c2316deaacf226cc725a8e73c3e0e0f9a07e580b4383eaa0493da056cc'}
+  - {seq: 60, role: markers, filename: assets/KR5a0001_060-CK-KZ-jye.markers.yaml, hash: 'sha256:9392806150a0476118fac9dc8c1632a0fd9b26a2ab5a259c06589eb540c96f66'}
+  - {seq: 61, role: markers, filename: assets/KR5a0001_061-CK-KZ-jye.markers.yaml, hash: 'sha256:83bff625733fbcf4742c1d7dec4aa12c16caee3b5c8a705b38712a9ebf9737c1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5a0001_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　道君譔¶<md:KR5a0001_HFL_001-015a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5a0001_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 0
+    - 272
+  label: 元始靈書上篇
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5a0001_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 272
+    - 730
+  label: 元始靈書中篇　道君譔¶<md:KR5a0001_HFL_001-016b>
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR5a0001_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 730
+    - 1178
+  label: 元始靈書下篇　　天眞皇人譔¶<md:KR5a0001_HFL_001-018b>
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR5a0001_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 1983
+  label: 玉宸大道品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0001_CK-KZ-jye_002-h2
+    span:
+    - body
+    - 1983
+    - 5296
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0001_CK-KZ-jye_002-h3
+    span:
+    - body
+    - 5296
+    - 5296
+  label: 上清天中玉宸大道隱語靈音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0001_CK-KZ-jye_002-h4
+    span:
+    - body
+    - 5296
+    - 5845
+  label: 元始玉章首篇
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR5a0001_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 0
+    - 2065
+  label: 天地八維安鎭國祚品
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5a0001_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 2065
+    - 5570
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0001_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 5570
+    - 5570
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5a0001_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 5570
+    - 6064
+  label: 元始靈書安鎭國祚玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR5a0001_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 1687
+  label: 永延劫運保世升平品
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5a0001_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 1687
+    - 4370
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5a0001_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 4370
+    - 4370
+  label: 諸天中大梵隱語无量音 道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5a0001_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 4370
+    - 4860
+  label: 元始靈書永延劫運護世太平玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR5a0001_CK-KZ-jye_005-h1
+    span:
+    - body
+    - 0
+    - 1817
+  label: 消禳國君王侯世土災祥品
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5a0001_CK-KZ-jye_005-h2
+    span:
+    - body
+    - 1817
+    - 4476
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5a0001_CK-KZ-jye_005-h3
+    span:
+    - body
+    - 4476
+    - 4476
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5a0001_CK-KZ-jye_005-h4
+    span:
+    - body
+    - 4476
+    - 5239
+  label: 元始消禳國君王侯世土災祥玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR5a0001_CK-KZ-jye_006-h1
+    span:
+    - body
+    - 0
+    - 2825
+  label: 太一神變五福護國禳兵品
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5a0001_CK-KZ-jye_006-h2
+    span:
+    - body
+    - 2825
+    - 6232
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5a0001_CK-KZ-jye_006-h3
+    span:
+    - body
+    - 6232
+    - 6232
+  label: 諸天中大梵隱語无量音
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5a0001_CK-KZ-jye_006-h4
+    span:
+    - body
+    - 6232
+    - 6696
+  label: 太一神變護國禳兵玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR5a0001_CK-KZ-jye_007-h1
+    span:
+    - body
+    - 0
+    - 1701
+  label: 顯瑞符應品
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5a0001_CK-KZ-jye_007-h2
+    span:
+    - body
+    - 1701
+    - 4296
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5a0001_CK-KZ-jye_007-h3
+    span:
+    - body
+    - 4296
+    - 4296
+  label: 諸天中大梵隱語无量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5a0001_CK-KZ-jye_007-h4
+    span:
+    - body
+    - 4296
+    - 4789
+  label: 元始靈書瑞符曲篇
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR5a0001_CK-KZ-jye_008-h1
+    span:
+    - body
+    - 0
+    - 1681
+  label: 清微金科品
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5a0001_CK-KZ-jye_008-h2
+    span:
+    - body
+    - 1681
+    - 4292
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5a0001_CK-KZ-jye_008-h3
+    span:
+    - body
+    - 4292
+    - 4292
+  label: 諸天中大梵隱語无量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5a0001_CK-KZ-jye_008-h4
+    span:
+    - body
+    - 4292
+    - 4770
+  label: 元始靈書清微金科玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5a0001_CK-KZ-jye_009-h1
+    span:
+    - body
+    - 0
+    - 2052
+  label: 禹餘玉律品
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5a0001_CK-KZ-jye_009-h2
+    span:
+    - body
+    - 2052
+    - 4969
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5a0001_CK-KZ-jye_009-h3
+    span:
+    - body
+    - 4969
+    - 4969
+  label: 諸天中大梵隱語无量音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR5a0001_CK-KZ-jye_009-h4
+    span:
+    - body
+    - 4969
+    - 5541
+  label: 元始禹餘靈書玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR5a0001_CK-KZ-jye_009-h5
+    span:
+    - body
+    - 5541
+    - 7529
+  label: 大赤靈文品
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5a0001_CK-KZ-jye_010-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5a0001_CK-KZ-jye_010-h3
+    span:
+    - body
+    - 0
+    - 639
+  label: 元始大赤靈文中篇
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR5a0001_CK-KZ-jye_011-h1
+    span:
+    - body
+    - 0
+    - 2732
+  label: 玉明運度品
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR5a0001_CK-KZ-jye_011-h2
+    span:
+    - body
+    - 2732
+    - 5848
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR5a0001_CK-KZ-jye_011-h3
+    span:
+    - body
+    - 5848
+    - 5848
+  label: 諸天中大梵隱語无量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR5a0001_CK-KZ-jye_011-h4
+    span:
+    - body
+    - 5848
+    - 6499
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR5a0001_CK-KZ-jye_012-h1
+    span:
+    - body
+    - 0
+    - 2505
+  label: ¶陰陽化生品
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5a0001_CK-KZ-jye_012-h2
+    span:
+    - body
+    - 2505
+    - 5659
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR5a0001_CK-KZ-jye_012-h3
+    span:
+    - body
+    - 5659
+    - 5659
+  label: 諸天中大梵隱語无量音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR5a0001_CK-KZ-jye_012-h4
+    span:
+    - body
+    - 5659
+    - 6159
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR5a0001_CK-KZ-jye_013-h1
+    span:
+    - body
+    - 0
+    - 2186
+  label: 太乙元精品
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5a0001_CK-KZ-jye_013-h2
+    span:
+    - body
+    - 2186
+    - 5267
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR5a0001_CK-KZ-jye_013-h3
+    span:
+    - body
+    - 5267
+    - 5267
+  label: 諸天中大梵隱語无量音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR5a0001_CK-KZ-jye_013-h4
+    span:
+    - body
+    - 5267
+    - 5839
+  label: 元始靈書太乙元精中篇
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR5a0001_CK-KZ-jye_014-h1
+    span:
+    - body
+    - 0
+    - 2224
+  label: 日精陽明品
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5a0001_CK-KZ-jye_014-h2
+    span:
+    - body
+    - 2224
+    - 5130
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR5a0001_CK-KZ-jye_014-h3
+    span:
+    - body
+    - 5130
+    - 5130
+  label: 諸天中大梵隱語无量音　道君撰¶<md:KR5a0001_HFL_014-018b>
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR5a0001_CK-KZ-jye_014-h4
+    span:
+    - body
+    - 5130
+    - 5654
+  label: 元始靈書日精陽明中篇
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR5a0001_CK-KZ-jye_015-h1
+    span:
+    - body
+    - 0
+    - 2126
+  label: 月華陰景品
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5a0001_CK-KZ-jye_015-h2
+    span:
+    - body
+    - 2126
+    - 4970
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR5a0001_CK-KZ-jye_015-h3
+    span:
+    - body
+    - 4970
+    - 4970
+  label: 諸天中大梵隱語无量音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR5a0001_CK-KZ-jye_015-h4
+    span:
+    - body
+    - 4970
+    - 5617
+  label: 元始靈書月華陰景中篇
+  type: section
+  level: 3
+- ref:
+    seq: 15
+    marker_id: KR5a0001_CK-KZ-jye_015-h5
+    span:
+    - body
+    - 5617
+    - 7335
+  label: ¶陰陽離合五行化體品
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5a0001_CK-KZ-jye_016-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR5a0001_CK-KZ-jye_016-h3
+    span:
+    - body
+    - 0
+    - 531
+  label: 元始陰陽離合五行化體靈書玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 16
+    marker_id: KR5a0001_CK-KZ-jye_016-h4
+    span:
+    - body
+    - 531
+    - 2468
+  label: 扶桑青陽品
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5a0001_CK-KZ-jye_017-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR5a0001_CK-KZ-jye_017-h3
+    span:
+    - body
+    - 0
+    - 524
+  label: 元始靈書扶桑青陽玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 17
+    marker_id: KR5a0001_CK-KZ-jye_017-h4
+    span:
+    - body
+    - 524
+    - 2552
+  label: 素景曜靈品
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5a0001_CK-KZ-jye_018-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR5a0001_CK-KZ-jye_018-h3
+    span:
+    - body
+    - 0
+    - 530
+  label: 元始素景燿靈玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 19
+    marker_id: KR5a0001_CK-KZ-jye_019-h1
+    span:
+    - body
+    - 0
+    - 4415
+  label: 十方聖境品
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR5a0001_CK-KZ-jye_019-h2
+    span:
+    - body
+    - 4415
+    - 4415
+  label: 諸天中大梵隱語无量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR5a0001_CK-KZ-jye_019-h3
+    span:
+    - body
+    - 4415
+    - 4918
+  label: 元始靈書十方聖境祕篇
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR5a0001_CK-KZ-jye_020-h1
+    span:
+    - body
+    - 0
+    - 2313
+  label: 碧落空歌品
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR5a0001_CK-KZ-jye_020-h2
+    span:
+    - body
+    - 2313
+    - 5969
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR5a0001_CK-KZ-jye_020-h3
+    span:
+    - body
+    - 5969
+    - 5969
+  label: 諸天中大梵碧落空歌隱語无量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR5a0001_CK-KZ-jye_020-h4
+    span:
+    - body
+    - 5969
+    - 6504
+  label: 元始靈書碧霞玉文靈篇
+  type: section
+  level: 3
+- ref:
+    seq: 20
+    marker_id: KR5a0001_CK-KZ-jye_020-h5
+    span:
+    - body
+    - 6504
+    - 8904
+  label: 生化胎根斷除邪穢品
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR5a0001_CK-KZ-jye_020-h6
+    span:
+    - body
+    - 8904
+    - 9536
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR5a0001_CK-KZ-jye_021-h1
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 21
+    marker_id: KR5a0001_CK-KZ-jye_021-h2
+    span:
+    - body
+    - 0
+    - 506
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 22
+    marker_id: KR5a0001_CK-KZ-jye_022-h1
+    span:
+    - body
+    - 0
+    - 1730
+  label: 飛神召靈品
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR5a0001_CK-KZ-jye_022-h2
+    span:
+    - body
+    - 1730
+    - 4367
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR5a0001_CK-KZ-jye_022-h3
+    span:
+    - body
+    - 4367
+    - 4367
+  label: 諸天中飛神召靈隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 22
+    marker_id: KR5a0001_CK-KZ-jye_022-h4
+    span:
+    - body
+    - 4367
+    - 4867
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 23
+    marker_id: KR5a0001_CK-KZ-jye_023-h1
+    span:
+    - body
+    - 0
+    - 1709
+  label: 降眞召靈品
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR5a0001_CK-KZ-jye_023-h2
+    span:
+    - body
+    - 1709
+    - 4243
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR5a0001_CK-KZ-jye_023-h3
+    span:
+    - body
+    - 4243
+    - 4243
+  label: 諸天中大梵隱語无量音　　道君譔¶<md:KR5a0001_HFL_023-015b>
+  type: section
+  level: 2
+- ref:
+    seq: 23
+    marker_id: KR5a0001_CK-KZ-jye_023-h4
+    span:
+    - body
+    - 4243
+    - 4740
+  label: 元始降眞召靈中篇
+  type: section
+  level: 3
+- ref:
+    seq: 24
+    marker_id: KR5a0001_CK-KZ-jye_024-h1
+    span:
+    - body
+    - 0
+    - 2038
+  label: 神變氣化品
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR5a0001_CK-KZ-jye_024-h2
+    span:
+    - body
+    - 2038
+    - 4943
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR5a0001_CK-KZ-jye_024-h3
+    span:
+    - body
+    - 4943
+    - 4943
+  label: 八天之大梵隱語无量音　　道君譔¶<md:KR5a0001_HFL_024-018a>
+  type: section
+  level: 2
+- ref:
+    seq: 24
+    marker_id: KR5a0001_CK-KZ-jye_024-h4
+    span:
+    - body
+    - 4943
+    - 5457
+  label: 元始靈書神變氣化玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 25
+    marker_id: KR5a0001_CK-KZ-jye_025-h1
+    span:
+    - body
+    - 0
+    - 1965
+  label: 赤符丹光品
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR5a0001_CK-KZ-jye_025-h2
+    span:
+    - body
+    - 1965
+    - 4668
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR5a0001_CK-KZ-jye_025-h3
+    span:
+    - body
+    - 4668
+    - 4668
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 25
+    marker_id: KR5a0001_CK-KZ-jye_025-h4
+    span:
+    - body
+    - 4668
+    - 5274
+  label: 元始靈書赤符丹光玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 25
+    marker_id: KR5a0001_CK-KZ-jye_025-h5
+    span:
+    - body
+    - 5274
+    - 8004
+  label: 明體貫氣品
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR5a0001_CK-KZ-jye_026-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　太極眞人譔
+  type: section
+  level: 2
+- ref:
+    seq: 26
+    marker_id: KR5a0001_CK-KZ-jye_026-h3
+    span:
+    - body
+    - 0
+    - 568
+  label: 太上明體貫氣靈篇
+  type: section
+  level: 3
+- ref:
+    seq: 26
+    marker_id: KR5a0001_CK-KZ-jye_026-h4
+    span:
+    - body
+    - 568
+    - 2398
+  label: 紫光丹靈品
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR5a0001_CK-KZ-jye_027-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 27
+    marker_id: KR5a0001_CK-KZ-jye_027-h3
+    span:
+    - body
+    - 0
+    - 502
+  label: 元始紫光丹靈玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 28
+    marker_id: KR5a0001_CK-KZ-jye_028-h1
+    span:
+    - body
+    - 0
+    - 2730
+  label: 三辰光煇保命延生品
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR5a0001_CK-KZ-jye_028-h2
+    span:
+    - body
+    - 2730
+    - 5829
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR5a0001_CK-KZ-jye_028-h3
+    span:
+    - body
+    - 5829
+    - 5829
+  label: 諸天中三辰光煇大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 28
+    marker_id: KR5a0001_CK-KZ-jye_028-h4
+    span:
+    - body
+    - 5829
+    - 6405
+  label: 太上三垣保命延生玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 29
+    marker_id: KR5a0001_CK-KZ-jye_029-h1
+    span:
+    - body
+    - 0
+    - 2470
+  label: 降眞延壽品
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR5a0001_CK-KZ-jye_029-h2
+    span:
+    - body
+    - 2470
+    - 5261
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR5a0001_CK-KZ-jye_029-h3
+    span:
+    - body
+    - 5261
+    - 5261
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 29
+    marker_id: KR5a0001_CK-KZ-jye_029-h4
+    span:
+    - body
+    - 5261
+    - 5758
+  label: 元始降眞延壽玉文靈篇
+  type: section
+  level: 3
+- ref:
+    seq: 29
+    marker_id: KR5a0001_CK-KZ-jye_029-h5
+    span:
+    - body
+    - 5758
+    - 7330
+  label: 斷絕胎根閉塞死戸品
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR5a0001_CK-KZ-jye_030-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中回風混合隱語无量音　　道君譔¶<md:KR5a0001_HFL_030-017a>
+  type: section
+  level: 2
+- ref:
+    seq: 30
+    marker_id: KR5a0001_CK-KZ-jye_030-h3
+    span:
+    - body
+    - 0
+    - 602
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 31
+    marker_id: KR5a0001_CK-KZ-jye_031-h1
+    span:
+    - body
+    - 0
+    - 2560
+  label: 長生久視品
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR5a0001_CK-KZ-jye_031-h2
+    span:
+    - body
+    - 2560
+    - 5941
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR5a0001_CK-KZ-jye_031-h3
+    span:
+    - body
+    - 5941
+    - 5941
+  label: 諸天中天大梵隱語無量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 31
+    marker_id: KR5a0001_CK-KZ-jye_031-h4
+    span:
+    - body
+    - 5941
+    - 6485
+  label: 長生大帝君靈書玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 31
+    marker_id: KR5a0001_CK-KZ-jye_031-h5
+    span:
+    - body
+    - 6485
+    - 8803
+  label: 五行順治品
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR5a0001_CK-KZ-jye_032-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語無量音 道君撰¶<md:KR5a0001_HFL_032-021a>
+  type: section
+  level: 2
+- ref:
+    seq: 32
+    marker_id: KR5a0001_CK-KZ-jye_032-h3
+    span:
+    - body
+    - 0
+    - 731
+  label: 元始靈書五行順治玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 33
+    marker_id: KR5a0001_CK-KZ-jye_033-h1
+    span:
+    - body
+    - 0
+    - 3004
+  label: 五方正氣品
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR5a0001_CK-KZ-jye_033-h2
+    span:
+    - body
+    - 3004
+    - 6103
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR5a0001_CK-KZ-jye_033-h3
+    span:
+    - body
+    - 6103
+    - 6103
+  label: 諸天中大梵隱語無量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 33
+    marker_id: KR5a0001_CK-KZ-jye_033-h4
+    span:
+    - body
+    - 6103
+    - 6646
+  label: 元始靈書五方天尊正氣玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 33
+    marker_id: KR5a0001_CK-KZ-jye_033-h5
+    span:
+    - body
+    - 6646
+    - 8368
+  label: 騰曜二景五星品
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR5a0001_CK-KZ-jye_034-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語無量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 34
+    marker_id: KR5a0001_CK-KZ-jye_034-h3
+    span:
+    - body
+    - 0
+    - 545
+  label: 元始靈書七辰寶篇
+  type: section
+  level: 3
+- ref:
+    seq: 34
+    marker_id: KR5a0001_CK-KZ-jye_034-h4
+    span:
+    - body
+    - 545
+    - 2455
+  label: 九宮仙籍品
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR5a0001_CK-KZ-jye_035-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語無量音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 35
+    marker_id: KR5a0001_CK-KZ-jye_035-h3
+    span:
+    - body
+    - 0
+    - 678
+  label: 元始靈書九宮仙籍諸眞寶諱首篇
+  type: section
+  level: 3
+- ref:
+    seq: 36
+    marker_id: KR5a0001_CK-KZ-jye_036-h1
+    span:
+    - body
+    - 0
+    - 2152
+  label: 八景神合品
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR5a0001_CK-KZ-jye_036-h2
+    span:
+    - body
+    - 2152
+    - 4978
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 36
+    marker_id: KR5a0001_CK-KZ-jye_036-h3
+    span:
+    - body
+    - 4978
+    - 4978
+  label: 諸天中大梵隱語无量音　　道君譔¶<md:KR5a0001_HFL_036-018a>
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR5a0001_CK-KZ-jye_036-h4
+    span:
+    - body
+    - 4978
+    - 5517
+  label: 元始靈書八景神合內篇
+  type: section
+  level: 3
+- ref:
+    seq: 36
+    marker_id: KR5a0001_CK-KZ-jye_036-h5
+    span:
+    - body
+    - 5517
+    - 8842
+  label: 七星除祅品
+  type: section
+  level: 2
+- ref:
+    seq: 36
+    marker_id: KR5a0001_CK-KZ-jye_036-h6
+    span:
+    - body
+    - 8842
+    - 9436
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 37
+    marker_id: KR5a0001_CK-KZ-jye_037-h1
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　明威眞人譔
+  type: section
+  level: 2
+- ref:
+    seq: 37
+    marker_id: KR5a0001_CK-KZ-jye_037-h2
+    span:
+    - body
+    - 0
+    - 547
+  label: 七星除祅玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 37
+    marker_id: KR5a0001_CK-KZ-jye_037-h3
+    span:
+    - body
+    - 547
+    - 2407
+  label: 神符除難品
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR5a0001_CK-KZ-jye_038-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵神符隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 38
+    marker_id: KR5a0001_CK-KZ-jye_038-h3
+    span:
+    - body
+    - 0
+    - 522
+  label: 元始神符玉篇¶<md:KR5a0001_HFL_038-017b>
+  type: section
+  level: 3
+- ref:
+    seq: 39
+    marker_id: KR5a0001_CK-KZ-jye_039-h1
+    span:
+    - body
+    - 0
+    - 2504
+  label: 南宮延生品
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR5a0001_CK-KZ-jye_039-h2
+    span:
+    - body
+    - 2504
+    - 5462
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 39
+    marker_id: KR5a0001_CK-KZ-jye_039-h3
+    span:
+    - body
+    - 5462
+    - 5462
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 39
+    marker_id: KR5a0001_CK-KZ-jye_039-h4
+    span:
+    - body
+    - 5462
+    - 5959
+  label: 元始靈書南宮延生祕篇¶<md:KR5a0001_HFL_039-019b>
+  type: section
+  level: 3
+- ref:
+    seq: 40
+    marker_id: KR5a0001_CK-KZ-jye_040-h1
+    span:
+    - body
+    - 0
+    - 2460
+  label: 北都除殃品
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR5a0001_CK-KZ-jye_040-h2
+    span:
+    - body
+    - 2460
+    - 5354
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 40
+    marker_id: KR5a0001_CK-KZ-jye_040-h3
+    span:
+    - body
+    - 5354
+    - 5354
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 40
+    marker_id: KR5a0001_CK-KZ-jye_040-h4
+    span:
+    - body
+    - 5354
+    - 5836
+  label: 元始靈書北都除殃玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 41
+    marker_id: KR5a0001_CK-KZ-jye_041-h1
+    span:
+    - body
+    - 0
+    - 2212
+  label: 五行備足生靈壽域品
+  type: section
+  level: 2
+- ref:
+    seq: 41
+    marker_id: KR5a0001_CK-KZ-jye_041-h2
+    span:
+    - body
+    - 2212
+    - 4938
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 41
+    marker_id: KR5a0001_CK-KZ-jye_041-h3
+    span:
+    - body
+    - 4938
+    - 4938
+  label: 諸天中大梵隱語無量音　道君撰¶<md:KR5a0001_HFL_041-017b>
+  type: section
+  level: 2
+- ref:
+    seq: 41
+    marker_id: KR5a0001_CK-KZ-jye_041-h4
+    span:
+    - body
+    - 4938
+    - 5415
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 42
+    marker_id: KR5a0001_CK-KZ-jye_042-h1
+    span:
+    - body
+    - 0
+    - 2151
+  label: 祈求嗣續慶延門閥品
+  type: section
+  level: 2
+- ref:
+    seq: 42
+    marker_id: KR5a0001_CK-KZ-jye_042-h2
+    span:
+    - body
+    - 2151
+    - 5278
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 42
+    marker_id: KR5a0001_CK-KZ-jye_042-h3
+    span:
+    - body
+    - 5278
+    - 5278
+  label: 諸天中大梵隱語无量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 42
+    marker_id: KR5a0001_CK-KZ-jye_042-h4
+    span:
+    - body
+    - 5278
+    - 5802
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 42
+    marker_id: KR5a0001_CK-KZ-jye_042-h5
+    span:
+    - body
+    - 5802
+    - 8035
+  label: 保胎護命品
+  type: section
+  level: 2
+- ref:
+    seq: 43
+    marker_id: KR5a0001_CK-KZ-jye_043-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 43
+    marker_id: KR5a0001_CK-KZ-jye_043-h3
+    span:
+    - body
+    - 0
+    - 498
+  label: 元始保胎護命靈篇
+  type: section
+  level: 3
+- ref:
+    seq: 43
+    marker_id: KR5a0001_CK-KZ-jye_043-h4
+    span:
+    - body
+    - 498
+    - 3389
+  label: 洞神禳災品
+  type: section
+  level: 2
+- ref:
+    seq: 44
+    marker_id: KR5a0001_CK-KZ-jye_044-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語無量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 44
+    marker_id: KR5a0001_CK-KZ-jye_044-h3
+    span:
+    - body
+    - 0
+    - 557
+  label: 扶桑洞神大道君禳菑靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 44
+    marker_id: KR5a0001_CK-KZ-jye_044-h4
+    span:
+    - body
+    - 557
+    - 749
+  label: 解禳山谷瘴癘品
+  type: section
+  level: 2
+- ref:
+    seq: 45
+    marker_id: KR5a0001_CK-KZ-jye_045-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量之音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 45
+    marker_id: KR5a0001_CK-KZ-jye_045-h3
+    span:
+    - body
+    - 0
+    - 415
+  label: 元始靈書解禳山谷瘴癘玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 46
+    marker_id: KR5a0001_CK-KZ-jye_046-h1
+    span:
+    - body
+    - 0
+    - 2306
+  label: 除禳水火漂焚品
+  type: section
+  level: 2
+- ref:
+    seq: 46
+    marker_id: KR5a0001_CK-KZ-jye_046-h2
+    span:
+    - body
+    - 2306
+    - 5564
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 46
+    marker_id: KR5a0001_CK-KZ-jye_046-h3
+    span:
+    - body
+    - 5564
+    - 5564
+  label: 諸天中大梵隱語除禳水火无量音¶　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 46
+    marker_id: KR5a0001_CK-KZ-jye_046-h4
+    span:
+    - body
+    - 5564
+    - 6145
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 47
+    marker_id: KR5a0001_CK-KZ-jye_047-h1
+    span:
+    - body
+    - 0
+    - 1975
+  label: 祈禳水旱品
+  type: section
+  level: 2
+- ref:
+    seq: 47
+    marker_id: KR5a0001_CK-KZ-jye_047-h2
+    span:
+    - body
+    - 1975
+    - 4897
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 47
+    marker_id: KR5a0001_CK-KZ-jye_047-h3
+    span:
+    - body
+    - 4897
+    - 4897
+  label: 諸天中大梵隱語无量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 47
+    marker_id: KR5a0001_CK-KZ-jye_047-h4
+    span:
+    - body
+    - 4897
+    - 5436
+  label: 元始靈書水火三十二天祈禳中篇
+  type: section
+  level: 3
+- ref:
+    seq: 48
+    marker_id: KR5a0001_CK-KZ-jye_048-h1
+    span:
+    - body
+    - 0
+    - 1926
+  label: 安鎭九壘土祅不祥品
+  type: section
+  level: 2
+- ref:
+    seq: 48
+    marker_id: KR5a0001_CK-KZ-jye_048-h2
+    span:
+    - body
+    - 1926
+    - 4583
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 48
+    marker_id: KR5a0001_CK-KZ-jye_048-h3
+    span:
+    - body
+    - 4583
+    - 4583
+  label: 諸天中大梵隱語无量音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 48
+    marker_id: KR5a0001_CK-KZ-jye_048-h4
+    span:
+    - body
+    - 4583
+    - 5073
+  label: 元始靈書九壘妙篇
+  type: section
+  level: 3
+- ref:
+    seq: 49
+    marker_id: KR5a0001_CK-KZ-jye_049-h1
+    span:
+    - body
+    - 0
+    - 2213
+  label: 消除病癘跛痾品
+  type: section
+  level: 2
+- ref:
+    seq: 49
+    marker_id: KR5a0001_CK-KZ-jye_049-h2
+    span:
+    - body
+    - 2213
+    - 5182
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 49
+    marker_id: KR5a0001_CK-KZ-jye_049-h3
+    span:
+    - body
+    - 5182
+    - 5182
+  label: 諸天中大梵隱語无量音　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 49
+    marker_id: KR5a0001_CK-KZ-jye_049-h4
+    span:
+    - body
+    - 5182
+    - 5723
+  label: 元始消除病癘跛痾靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 49
+    marker_id: KR5a0001_CK-KZ-jye_049-h5
+    span:
+    - body
+    - 5723
+    - 8576
+  label: 蠲化水火災癘品
+  type: section
+  level: 2
+- ref:
+    seq: 50
+    marker_id: KR5a0001_CK-KZ-jye_050-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語无量音　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 50
+    marker_id: KR5a0001_CK-KZ-jye_050-h3
+    span:
+    - body
+    - 0
+    - 368
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 51
+    marker_id: KR5a0001_CK-KZ-jye_051-h1
+    span:
+    - body
+    - 0
+    - 2165
+  label: 消除疾疫保命延年品
+  type: section
+  level: 2
+- ref:
+    seq: 51
+    marker_id: KR5a0001_CK-KZ-jye_051-h2
+    span:
+    - body
+    - 2165
+    - 5105
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 51
+    marker_id: KR5a0001_CK-KZ-jye_051-h3
+    span:
+    - body
+    - 5105
+    - 5105
+  label: 諸天中大梵隱語無量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 51
+    marker_id: KR5a0001_CK-KZ-jye_051-h4
+    span:
+    - body
+    - 5105
+    - 5598
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 52
+    marker_id: KR5a0001_CK-KZ-jye_052-h1
+    span:
+    - body
+    - 0
+    - 2199
+  label: ¶𤣥明洞淵品
+  type: section
+  level: 2
+- ref:
+    seq: 52
+    marker_id: KR5a0001_CK-KZ-jye_052-h2
+    span:
+    - body
+    - 2199
+    - 5257
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 52
+    marker_id: KR5a0001_CK-KZ-jye_052-h3
+    span:
+    - body
+    - 5257
+    - 5257
+  label: 諸天中大梵隱語無量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 52
+    marker_id: KR5a0001_CK-KZ-jye_052-h4
+    span:
+    - body
+    - 5257
+    - 5744
+  label: 元始𤣥明洞淵靈書紫篇
+  type: section
+  level: 3
+- ref:
+    seq: 53
+    marker_id: KR5a0001_CK-KZ-jye_053-h1
+    span:
+    - body
+    - 0
+    - 1807
+  label: 斬滅五行邪怪品
+  type: section
+  level: 2
+- ref:
+    seq: 53
+    marker_id: KR5a0001_CK-KZ-jye_053-h2
+    span:
+    - body
+    - 1807
+    - 4607
+  label: 元始无量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 53
+    marker_id: KR5a0001_CK-KZ-jye_053-h3
+    span:
+    - body
+    - 4607
+    - 4607
+  label: 諸天中大梵隱語無量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 53
+    marker_id: KR5a0001_CK-KZ-jye_053-h4
+    span:
+    - body
+    - 4607
+    - 5156
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 53
+    marker_id: KR5a0001_CK-KZ-jye_053-h5
+    span:
+    - body
+    - 5156
+    - 7262
+  label: 斬馘不祥品
+  type: section
+  level: 2
+- ref:
+    seq: 54
+    marker_id: KR5a0001_CK-KZ-jye_054-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語無量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 54
+    marker_id: KR5a0001_CK-KZ-jye_054-h3
+    span:
+    - body
+    - 0
+    - 526
+  label: 元始靈書斬馘不祥玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 55
+    marker_id: KR5a0001_CK-KZ-jye_055-h1
+    span:
+    - body
+    - 0
+    - 2086
+  label: 追度上世亡䰟品
+  type: section
+  level: 2
+- ref:
+    seq: 55
+    marker_id: KR5a0001_CK-KZ-jye_055-h2
+    span:
+    - body
+    - 2086
+    - 4852
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 55
+    marker_id: KR5a0001_CK-KZ-jye_055-h3
+    span:
+    - body
+    - 4852
+    - 4852
+  label: 諸天中大梵隱語無量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 55
+    marker_id: KR5a0001_CK-KZ-jye_055-h4
+    span:
+    - body
+    - 4852
+    - 5385
+  label: 元始靈書中篇
+  type: section
+  level: 3
+- ref:
+    seq: 56
+    marker_id: KR5a0001_CK-KZ-jye_056-h1
+    span:
+    - body
+    - 0
+    - 2056
+  label: 濟度死魂品
+  type: section
+  level: 2
+- ref:
+    seq: 56
+    marker_id: KR5a0001_CK-KZ-jye_056-h2
+    span:
+    - body
+    - 2056
+    - 4869
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 56
+    marker_id: KR5a0001_CK-KZ-jye_056-h3
+    span:
+    - body
+    - 4869
+    - 4869
+  label: 諸天中大梵隱語無量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 56
+    marker_id: KR5a0001_CK-KZ-jye_056-h4
+    span:
+    - body
+    - 4869
+    - 5362
+  label: 元始靈書度魂中篇
+  type: section
+  level: 3
+- ref:
+    seq: 57
+    marker_id: KR5a0001_CK-KZ-jye_057-h1
+    span:
+    - body
+    - 0
+    - 2621
+  label: 解釋幽牢品
+  type: section
+  level: 2
+- ref:
+    seq: 57
+    marker_id: KR5a0001_CK-KZ-jye_057-h2
+    span:
+    - body
+    - 2621
+    - 5831
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 57
+    marker_id: KR5a0001_CK-KZ-jye_057-h3
+    span:
+    - body
+    - 5831
+    - 5831
+  label: 諸天中大梵隱語無量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 57
+    marker_id: KR5a0001_CK-KZ-jye_057-h4
+    span:
+    - body
+    - 5831
+    - 6402
+  label: 元始靈書解釋幽牢洞篇
+  type: section
+  level: 3
+- ref:
+    seq: 57
+    marker_id: KR5a0001_CK-KZ-jye_057-h5
+    span:
+    - body
+    - 6402
+    - 8232
+  label: 迴生起死品
+  type: section
+  level: 2
+- ref:
+    seq: 58
+    marker_id: KR5a0001_CK-KZ-jye_058-h2
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天中大梵隱語無量音　　道君譔
+  type: section
+  level: 2
+- ref:
+    seq: 58
+    marker_id: KR5a0001_CK-KZ-jye_058-h3
+    span:
+    - body
+    - 0
+    - 526
+  label: 元始靈書攝氣還和玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 59
+    marker_id: KR5a0001_CK-KZ-jye_059-h1
+    span:
+    - body
+    - 0
+    - 2034
+  label: 化屍受形品
+  type: section
+  level: 2
+- ref:
+    seq: 59
+    marker_id: KR5a0001_CK-KZ-jye_059-h2
+    span:
+    - body
+    - 2034
+    - 5346
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 59
+    marker_id: KR5a0001_CK-KZ-jye_059-h3
+    span:
+    - body
+    - 5346
+    - 5346
+  label: 諸天中大梵隱語無量音　　道君撰¶<md:KR5a0001_HFL_059-019a>
+  type: section
+  level: 2
+- ref:
+    seq: 59
+    marker_id: KR5a0001_CK-KZ-jye_059-h4
+    span:
+    - body
+    - 5346
+    - 5871
+  label: 元始靈書化尸受形玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 60
+    marker_id: KR5a0001_CK-KZ-jye_060-h1
+    span:
+    - body
+    - 0
+    - 2631
+  label: 鍊氣變仙品
+  type: section
+  level: 2
+- ref:
+    seq: 60
+    marker_id: KR5a0001_CK-KZ-jye_060-h2
+    span:
+    - body
+    - 2631
+    - 6260
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 60
+    marker_id: KR5a0001_CK-KZ-jye_060-h3
+    span:
+    - body
+    - 6260
+    - 6260
+  label: 諸天中大梵隱語無量音　　道君撰
+  type: section
+  level: 2
+- ref:
+    seq: 60
+    marker_id: KR5a0001_CK-KZ-jye_060-h4
+    span:
+    - body
+    - 6260
+    - 6791
+  label: 元始洞𤣥鍊炁變仙玉篇
+  type: section
+  level: 3
+- ref:
+    seq: 60
+    marker_id: KR5a0001_CK-KZ-jye_060-h5
+    span:
+    - body
+    - 6791
+    - 9141
+  label: 永斷輪轉品
+  type: section
+  level: 2
+- ref:
+    seq: 60
+    marker_id: KR5a0001_CK-KZ-jye_060-h6
+    span:
+    - body
+    - 9141
+    - 9739
+  label: 元始無量度人上品妙經
+  type: section
+  level: 1
+- ref:
+    seq: 61
+    marker_id: KR5a0001_CK-KZ-jye_061-h1
+    span:
+    - body
+    - 0
+    - 0
+  label: 諸天¶中大梵隱語無量音
+  type: section
+  level: 2
+- ref:
+    seq: 61
+    marker_id: KR5a0001_CK-KZ-jye_061-h2
+    span:
+    - body
+    - 0
+    - 560
+  label: 元始靈書中篇
+  type: section
+  level: 3
+hash: sha256:44863b04f29a920031b33b481d45fb161795c4790f49d3fae1ad3ec83f0e070c

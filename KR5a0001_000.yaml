@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0001/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0001_HFL_000-001a, image: hfl/0001/0001-006.png}
+metadata:
+  title: 靈寶無量度人上品妙經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:02:56.425691'
+  source:
+    repository: kanripo
+    path: KR5a0001/KR5a0001_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:d74f5adec4821e70d65737ec5b905c5b3e38305829b2e7eff5b4591c4612b95c

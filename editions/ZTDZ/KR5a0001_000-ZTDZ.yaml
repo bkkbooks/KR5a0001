@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0001/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0001_SJB_000-010001a, image: sjb/01/010001a.png}
+metadata:
+  title: 靈寶無量度人上品妙經
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-28 23:02:56.425691'
+  source:
+    repository: kanripo
+    path: KR5a0001/KR5a0001_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:e00861c93ef1c4893ea84e829dec010c6a4d232e09e4951fc6c9f65624e31fec
